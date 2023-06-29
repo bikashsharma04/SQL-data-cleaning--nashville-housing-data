@@ -1,4 +1,4 @@
-use Portfolio_Project1
+use databasename.
 select * from Nashville_housing_data
 
 
